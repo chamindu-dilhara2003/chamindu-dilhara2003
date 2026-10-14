@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chamindu Dilhara</h1>
 <h3 align="center">⚡ IT Undergraduate @ UOR | Passionate about Software Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chamindu-dilhara2003&label=Profile%20views&color=0e75b6&style=flat" alt="chamindu-dilhara2003" /> </p>
-
-- 🔭 I’m currently studying on **University of Ruhuna**
+- 🔭 I’m currently studying at **University of Ruhuna**
 
 - 🌱 I’m currently learning **C & Java**
-
-- 💬 Ask me about **C**
 
 - 📫 How to reach me **chamindukaveesha764@gmail.com**
 
